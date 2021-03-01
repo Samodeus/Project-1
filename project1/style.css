@@ -1,0 +1,86 @@
+
+    .name{
+        color: orange;
+        text-align: center;
+    }
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/22/2021
+    Date modified: 02/22/2021 --->*/
+    
+    img{width: 150px;
+    }   
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/22/2021
+    Date modified: 02/22/2021 --->*/
+    .navi {display: inline;
+    display: block;
+    width: 2500px;
+    padding: 8px;
+    background-color: #dddddd;
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/22/2021
+    Date modified: 02/22/2021 --->*/
+    
+    }
+    h3{
+    text-align: center;
+    }
+/*Name: Miguelangel Popoteur
+Date Created: 02/22/2021
+Date modified: 02/22/2021 --->*/
+  
+    body {
+        background-color: dimgray;
+  }
+     /*Name: Miguelangel Popoteur
+    Date Created: 02/22/2021
+    Date modified: 02/22/2021 --->*/
+    .intro{ 
+        text-align: center;
+        font-size: 25px;
+    }
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/22/2021
+    Date modified: 02/22/2021 --->*/
+    .Res{
+        float: left;
+        width: 400px;
+        height: 150px;
+        background-color: coral;
+        margin: 15px;
+        margin-left: 450px;
+    }
+    /*Name: Miguelangel Popoteur
+Date Created: 02/27/2021
+Date modified: 02/28/2021 --->*/
+
+    .book{ float: left;
+        font-weight: bold;
+        background-color: green;
+        width: 400px;
+        height: 150px;
+        margin: 15px;
+}
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/27/2021
+    Date modified: 02/28/2021 --->*/
+    .places {
+      float: left;
+     background-color: cyan;
+     width: 400px;
+     height: 150px;
+        margin: 15px;
+}
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/27/2021
+    Date modified: 02/28/2021 --->*/
+    .jobs {
+     float: left;
+        background-color: dodgerblue;
+        width: 400px;
+        height: 150px;
+        margin: 15px;
+}
+    /*Name: Miguelangel Popoteur
+    Date Created: 02/27/2021
+    Date modified: 02/28/2021 --->*/
